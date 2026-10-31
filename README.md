@@ -7,17 +7,6 @@ Each project demonstrates core networking concepts such as VLAN segmentation, in
 
 ## 🧱 Projects Overview
 
-### 🏫 [Campus Network Design & Implementation](./college-campus-network/README.md)
-**Level:** Intermediate  
-**Focus:** Hierarchical Network Design, Multi-site Campus Topology, VLANs, Router-on-a-stick, DHCP, and RIP Routing
-**Highlights:**
-- Implemented Core, Distribution, and Access layers using Multi-layer switches.
-- Created specific VLANs for departments including Admin, HR, Finance, Business, Engineering, Arts & Design, IT.
-- Configured Inter-VLAN Routing using sub-interfaces for efficient departmental communication.
-- Deployed router-based DHCP server pools for dynamic IP allocation across all faculty and student labs.
-- Implemented RIP version 2 to manage internal routing between the Main Campus and Branch Campus.
-- Integrated a cloud-based email server with static routing and validated end-to-end connectivity
-
 ### 🏢 [Company Network Design & Implementation](./company-network-design/README.md)
 **Level:** Advanced  
 **Focus:** Hierarchical Network Design, Enterprise Redundancy, VLAN Segmentation, OSPF Routing, Security Implementation. 
@@ -28,6 +17,17 @@ Each project demonstrates core networking concepts such as VLAN segmentation, in
 - Integration of Port-Security (sticky MACs) for the finance department, SSH for secure remote device management, and NAT Overload/PAT for multi-ISP connectivity.
 - WLAN setup featuring Access Points deployed across all office departments.
 
+### 🏫 [Campus Network Design & Implementation](./college-campus-network/README.md)
+**Level:** Intermediate  
+**Focus:** Hierarchical Network Design, Multi-site Campus Topology, VLANs, Router-on-a-stick, DHCP, and RIP Routing
+**Highlights:**
+- Implemented Core, Distribution, and Access layers using Multi-layer switches.
+- Created specific VLANs for departments including Admin, HR, Finance, Business, Engineering, Arts & Design, IT.
+- Configured Inter-VLAN Routing using sub-interfaces for efficient departmental communication.
+- Deployed router-based DHCP server pools for dynamic IP allocation across all faculty and student labs.
+- Implemented RIP version 2 to manage internal routing between the Main Campus and Branch Campus.
+- Integrated a cloud-based email server with static routing and validated end-to-end connectivity
+  
 ---
 
 ## ⚙️ Technologies Used
