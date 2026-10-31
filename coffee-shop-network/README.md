@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Network# 
+# ☕ Coffee Shop Network 
 
 ## 🧱 Overview
 A comprehensive small business network design for a local coffee shop, implemented in Cisco Packet Tracer. The project focuses on building a secure, segmented infrastructure from the ground up, tailored to the specific operational needs of a cafe environment. It features VLAN segmentation to isolate traffic across four distinct logical networks: Management Office, Point of Sale (POS), Guest Wi-Fi, and Network Management.
