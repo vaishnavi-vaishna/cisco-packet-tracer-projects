@@ -49,6 +49,6 @@ All projects were built and tested using **Cisco Packet Tracer**, with documenta
 ---
 
 ## 📫 Connect with Me
-**LinkedIn:** [Suraj S](https://www.linkedin.com/in/suraj-sunilkumar/)  
-**GitHub:** [voizok](https://github.com/voizok)  
+**LinkedIn:** [Vaishnavi SA](https://www.linkedin.com/in/vaishnavivaishna/)  
+**GitHub:** [vaishnavi-vaishna](https://github.com/vaishnavi-vaishna)  
 **Tagline:** *Aspiring Network Engineer | Cisco Packet Tracer Projects*
