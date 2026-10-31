@@ -27,8 +27,18 @@ Each project demonstrates core networking concepts such as VLAN segmentation, in
 - Deployed router-based DHCP server pools for dynamic IP allocation across all faculty and student labs.
 - Implemented RIP version 2 to manage internal routing between the Main Campus and Branch Campus.
 - Integrated a cloud-based email server with static routing and validated end-to-end connectivity
-  
----
+
+### ☕ [Coffee Shop Network](./coffee-shop-network/README.md)
+**Level:** Beginner / Intermediate  
+**Focus:** Small Business Network Infrastructure, VLAN Segmentation, Router-on-a-Stick, DHCP, SSH, and Access Control Lists (ACLs).
+**Highlights:**
+- Designed a secure, logical network topology tailored for retail operations.
+- Implemented VLANs to isolate traffic for Management, Point of Sale (POS), Guest Wi-Fi, and Network Management.
+- Configured Router-on-a-Stick for Inter-VLAN routing across the four logical segments.
+- Deployed router-based DHCP services with static address reservations for critical infrastructure like printers.
+- Secured the network infrastructure using SSH for remote management and console port protection.
+- Applied standard ACLs to enforce traffic policies, ensuring guest Wi-Fi isolation from internal business resources.
+- Verified end-to-end network connectivity and security policy enforcement through comprehensive testing.
 
 ## ⚙️ Technologies Used
 - VLANs & Trunking  
